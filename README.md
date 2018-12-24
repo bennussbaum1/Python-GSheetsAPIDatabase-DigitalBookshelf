@@ -9,5 +9,5 @@ For more detailed instructions (recommended) follow this link to a video by Twil
 
 Code:
 
-Using terminal interface and code utilizing Google Drive API, keep a virtual version of your bookshelf. Can easily be modified for any sort of list application.
+Using terminal interface and code utilizing Google Drive API, keep a virtual version of your bookshelf. Can easily be modified for any sort of database/list application.
 Results in a standard fucntional Google Sheet that acts as the database for the py file.
